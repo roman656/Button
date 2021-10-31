@@ -1,0 +1,5 @@
+Button	KEYWORD1
+getPin	KEYWORD2
+isPressed	KEYWORD2
+wasClicked	KEYWORD2
+wasReleased	KEYWORD2
